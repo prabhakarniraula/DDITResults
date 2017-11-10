@@ -11,6 +11,12 @@ Also get notified whenever a result is updated. No need to keep checking results
 App made exclusively for DDIT students for their convenience.
 
 
+
+
+
+## Screenshots:
+<img src="https://user-images.githubusercontent.com/14089816/32645029-2ce0ba32-c60b-11e7-8c7e-0b76cbaedc64.png" height="400" alt="Screenshot"/> <img src="https://user-images.githubusercontent.com/14089816/32645034-382f5aa6-c60b-11e7-9bf0-198173733cb8.png" height="400" alt="Screenshot"/> <img src="https://user-images.githubusercontent.com/14089816/32645035-38636d32-c60b-11e7-99c9-55c6393b9435.png" height="400" alt="Screenshot"/> <img src="https://user-images.githubusercontent.com/14089816/32645036-3892de3c-c60b-11e7-8f60-84a46cc2476a.png" height="400" alt="Screenshot"/> <img src="https://user-images.githubusercontent.com/14089816/32645038-38c68dcc-c60b-11e7-93f7-2b4b6c08061d.png" height="400" alt="Screenshot"/> <img src="https://user-images.githubusercontent.com/14089816/32645039-38f9ad60-c60b-11e7-911d-38c43378460f.png" height="400" alt="Screenshot"/>
+
 ## Highlights:
 
 • Supports both internal and external results.
